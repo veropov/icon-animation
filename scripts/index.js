@@ -1,4 +1,4 @@
-const animation = bodymovin
+const animation = lottie
 
 animation.loadAnimation({
   container: document.querySelector('#bm'),
